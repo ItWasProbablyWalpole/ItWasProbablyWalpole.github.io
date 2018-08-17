@@ -1,0 +1,77 @@
+#article{
+	font-family:calibri;
+	text-align: center;
+	margin: 10px;
+	padding-bottom: 5px;
+}
+#Local_Man{
+	font-family:papyrus;
+	border:3px solid green;
+	box-shadow: 5px 2px 2px green;
+	font-size: 40px;
+	color: blue;
+	transition-timing-function: ease;
+	transition: 3s
+}
+#Local_Man:hover{
+	font-size: 100 px;
+	background-color: green;
+	padding: 30px;
+}
+#life{
+	transition: 2s;
+	background-color: white;
+	transition-timing-function: ease;
+}
+#life:hover{
+	background-color: gold;
+	font-size: 80px;
+}
+#body {
+	background-image: url("fish_copy.jpg");
+}
+#ThankingTheBusDriver{
+	padding: 10px;
+}
+#useless{
+	display:inline;
+	text-align:center;
+	float:right;
+	background-color:gold;
+	padding: 10px;
+}
+#noice{
+	font-size: 12px;
+	font-family:cursive;
+}
+
+#onion:hover{
+	background-color: lightblue;
+	color: white;
+}
+
+a:visited{
+	color:lime;
+}
+
+#leigh:hover{
+	background-color: lightblue;
+	color: white;
+}
+#stuff{
+	position: fixed;
+	font-weight: bold;
+	font-style: italic;
+	text-decoration: underline;
+	font-family: comicsans;
+	text-align: center;
+	padding:15px;
+	font-size:40px;
+	margin: 10px;
+	color: black;
+	background-image: url("floss_copy_copy.jpg");
+}
+#yeet:hover{
+	background-color: lightblue;
+	color: white;
+}

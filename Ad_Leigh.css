@@ -1,0 +1,12 @@
+#body{
+	background-image:url("dab.jpg.jpg");
+}
+#vbux{
+	font-size: 50px;
+	transition-timing-function: ease-in;
+	transition: 3s;
+}
+#vbux:hover{
+	font-size: 100px;
+	background-color: orange;
+}
